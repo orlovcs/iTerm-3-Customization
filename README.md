@@ -1,4 +1,4 @@
 # iTerm-3-Customization
-<code>
-configs for terminal
-</code>
+
+Follow this [guide.](https://gist.github.com/kevin-smets/8568070)
+
